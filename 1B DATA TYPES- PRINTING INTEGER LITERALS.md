@@ -22,7 +22,7 @@ print(num1,num2,num3)
 
 ## OUTPUT
 
-![m1](https://github.com/user-attachments/assets/6c8deafb-8795-4881-ba9a-74c28c715ec8)
+![Module 1A](https://github.com/user-attachments/assets/310d6eca-9627-4be9-95db-91cafc5355dc)
 
 
 ## RESULT
