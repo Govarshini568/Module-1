@@ -22,6 +22,8 @@ print(num1,num2,num3)
 
 ## OUTPUT
 
+![m1](https://github.com/user-attachments/assets/6c8deafb-8795-4881-ba9a-74c28c715ec8)
+
 
 ## RESULT
 The  program to print the following integer literals: 123, 456, 789 is verified.
