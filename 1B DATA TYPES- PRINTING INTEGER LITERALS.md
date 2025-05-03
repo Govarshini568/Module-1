@@ -14,12 +14,17 @@ To write a Python program to print the following integer literals: 123, 456, 789
 # Reg.No-212223020009
 # Name-Govarshini.P
 
-num1 = "123 456 789"
+num1=123
+num2=456
+num3=789
 
-print(num1)
+print(num1,num2,num3)
 
 ## OUTPUT
-![Screenshot 2025-05-03 083548](https://github.com/user-attachments/assets/c8b1c908-5625-4f7f-89ff-8ba6f2230d8c)
+
+![image](https://github.com/user-attachments/assets/c22cb92d-24b4-4c88-a4f2-581b3736b504)
+
+
 
 
 ## RESULT
